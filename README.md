@@ -6,6 +6,8 @@
 - [x] Total distance travelled after ride sharing
 - [x] Distance saved in percenage
 - [x] Unit testing
+- [x] CSV Data View
+- [ ] Converting Africar Dataset to trained NY datatype
 - [ ] SQL Setup
 - [ ] Stage
 - [ ] Beta Testing
